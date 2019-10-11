@@ -2,5 +2,9 @@
 new code
 new wz_demo1
 45565
+<<<<<<< HEAD
 dfgd
 阿萨德
+=======
+sad
+>>>>>>> demo1
